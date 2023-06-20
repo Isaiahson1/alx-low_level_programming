@@ -1,8 +1,7 @@
 #include "main.h"
 #include <unistd.h>
 /**
- * putchar - writes the character c to stdout
- * @c; the character to print
+ * putchar - writes the character c to stdout @c; is a character
  * Return: on success 1
  * on error, -1 is returned, and errno is set appropriately
  */
