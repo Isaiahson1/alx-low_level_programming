@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - print_putchar 
- * is written by mbah
+ * main - print putchar is written by mbah
+ *
  * Return: 0
  */
 
